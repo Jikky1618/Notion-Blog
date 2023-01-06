@@ -37,7 +37,7 @@
 }
 
 .code {
-  font-family: monospace;
+  font-family: Consolas, monospace;
   background-color: rgb(242, 242, 242);
   padding: 2px 4px;
   border-radius: 2px;
@@ -58,7 +58,7 @@
 
 .code_block {
   padding: 20px;
-  font-family: monospace;
+  font-family: Consolas, monospace;
   display: flex;
   flex-wrap: wrap;
 }
